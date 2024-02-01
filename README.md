@@ -23,3 +23,5 @@
   - **if necessary** `npx prisma format`
   - migrations `npx prisma migrate dev --name add_initial_tables`
 
+### Use Shadcn/ui
+* `npx shadcn-ui@latest init`
