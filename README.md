@@ -10,6 +10,10 @@
   - require: `npm install -g create-next-app` 
 
 ### Prisma
-
 * `npm install prisma -D`
 * `npx prisma init --datasource-provider postgresql`
+* **use** [supabase](https://supabase.com/) to host database
+* Commands:
+  - **if necessary** `npx prisma format`
+  - migrations `npx prisma migrate dev --name add_initial_tables`
+
