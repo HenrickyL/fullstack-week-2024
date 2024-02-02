@@ -27,6 +27,8 @@
 * `npx shadcn-ui@latest init`
 * add card: `npx shadcn-ui add card`
 * add button: `npx shadcn-ui add button`
+* add input: `npx shadcn-ui add input`
+* 
 
 ### Date Format:
 * date-fns
