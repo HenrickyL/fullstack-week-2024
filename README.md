@@ -28,7 +28,9 @@
 * add card: `npx shadcn-ui add card`
 * add button: `npx shadcn-ui add button`
 * add input: `npx shadcn-ui add input`
-* 
+* add badge: `npx shadcn-ui add badge`
+* add avatar: `npx shadcn-ui add avatar`
+
 
 ### Date Format:
 * date-fns
